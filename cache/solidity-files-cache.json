@@ -1,0 +1,73 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\giuli\\MisApps\\Konect\\contracts\\User.sol": {
+      "lastModificationDate": 1633400339729,
+      "contentHash": "0de90a05f3bca13bc19d97637004ecfc",
+      "sourceName": "contracts/User.sol",
+      "solcConfig": {
+        "version": "0.6.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.6.7"
+      ],
+      "artifacts": [
+        "User"
+      ]
+    },
+    "C:\\Users\\giuli\\MisApps\\Konect\\contracts\\Core.sol": {
+      "lastModificationDate": 1633400450373,
+      "contentHash": "019c23db1b7ea1d014d332985cabd79b",
+      "sourceName": "contracts/Core.sol",
+      "solcConfig": {
+        "version": "0.6.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.6.7"
+      ],
+      "artifacts": [
+        "Core"
+      ]
+    }
+  }
+}
