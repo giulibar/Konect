@@ -1,2 +1,2 @@
-# Konect
-messaing through blockchain
+# Initial page
+
