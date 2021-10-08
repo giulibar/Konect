@@ -2,5 +2,9 @@
 
 sendMessage\(\)
 
+sendPrivateMessage\(\)
+
+
+
 
 
